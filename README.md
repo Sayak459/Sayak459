@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="your-banner-image-url" alt="Profile Banner" />
+
 <!--
 **Sayak459/Sayak459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
