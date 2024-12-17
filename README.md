@@ -5,11 +5,13 @@
 </div>
 <br><br>
 
+<div align="center">
 ### Hi there, I'm Sayak Hajra 👋
 - 🌱 Currently learning DevOps and Cloud Computing.
 - 🔭 Exploring full-stack development with MERN stack.
 - 🌟 Portfolio: [sayakportfol.netlify.app](https://sayakportfol.netlify.app)
-- <br><br> 
+</div>
+<br><br> 
 
 ### 🛠️ Tech Stack
 <div align="center">
