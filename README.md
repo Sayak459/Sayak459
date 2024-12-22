@@ -1,11 +1,11 @@
-# <div align="center">🦅 Welcome To MY ACCOUNT 🦨</div>
+# <div align="center">🦅 Hi there, I'm Sayak Hajra 🦨</div>
 <br><br> 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
 <br><br>
 
-### Hi there, I'm Sayak Hajra 👋
+### Welcome HERE!! 👋
 - 🌱 Currently learning DevOps and Cloud Computing.
 - 🔭 Exploring full-stack development with MERN stack.
 - 🌟 Portfolio: [sayakportfol.netlify.app](https://sayakportfol.netlify.app)
